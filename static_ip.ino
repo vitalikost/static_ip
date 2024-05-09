@@ -61,7 +61,7 @@ void setup(void)
       int gateway1 = 192;
       int gateway2 = 168;
       int gateway3 = 49;
-      int gateway4 = 164; 
+      int gateway4 = 1; 
       
       int subnet1 = 255;
       int subnet2 = 255;
